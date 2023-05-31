@@ -10,7 +10,7 @@ class MainWindow(QMainWindow):
         super().__init__()
 
         # Load the video
-        self.video_path = "resources/vid2.mp4"
+        self.video_path = "resources/vid3.mp4"
         self.cap = cv.VideoCapture(self.video_path)
 
         # Create a label to display the video frames

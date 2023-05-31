@@ -1,1 +1,1 @@
-with dpg.window(tag="Main Window"):
+histograms
